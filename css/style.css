@@ -186,6 +186,9 @@ a:link, a:visited, a:hover, a:active {text-decoration: none;}
     color: #999999;
 
 }
+.git-project:hover {
+    background-color: #666655;
+}
 
 .github-shortcut
 {
